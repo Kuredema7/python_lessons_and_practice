@@ -9,7 +9,7 @@ def solveMeFirst(a,b):
     return (a + b)
 
 
-num1 = int(input())
-num2 = int(input())
+num1 = int(input('Enter 1st number: '))
+num2 = int(input('Enter 2nd number: '))
 res = solveMeFirst(num1,num2)
 print(res)
