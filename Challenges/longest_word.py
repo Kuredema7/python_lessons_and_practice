@@ -12,7 +12,7 @@ txt = input()
 
 words = txt.split(' ')
 
-print(f'words: {words}')
+# print(f'words: {words}')
 
 longest_word = ''
 
